@@ -2,7 +2,7 @@ simple login php
 --------------------------------
 
 
-this is Laravel on apache server and sqlite 
+php , sqlite , apache , laravel
 
 
 --------------------------------
