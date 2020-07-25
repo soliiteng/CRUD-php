@@ -1,8 +1,8 @@
-simple CRUD php
+simple login php
 --------------------------------
 
 
-create - read - update - delete
+this is Laravel on apache server and sqlite 
 
 
 --------------------------------
